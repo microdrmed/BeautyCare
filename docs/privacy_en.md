@@ -1,6 +1,6 @@
 # MDR.Care Privacy Policy
 
-Effective date: [2026/11/20]
+Effective date: 2026/11/20
 
 Version: v1.0-PP
 
