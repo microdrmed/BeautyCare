@@ -1,4 +1,4 @@
-# MDR.Care Terms of Service
+# MDr. Care Terms of Service
 
 Effective date: 2026/11/20
 
@@ -8,7 +8,7 @@ Region: Worldwide
 
 Audience: Adults aged 18 or over only
 
-Please read these Terms before you download or install MDR.Care. By downloading, installing or using the App, you agree to all of them.
+Please read these Terms before you download or install MDr. Care. By downloading, installing or using the App, you agree to all of them.
 
 The App lets you control your Beauty Device over Bluetooth, see your usage records and update the Beauty Device firmware. Usage records stay on the Beauty Device, and what you enter in the App stays on your mobile device. We do not keep a copy of either, so keeping your data safe is up to you. See Section 7.
 
@@ -82,7 +82,7 @@ The App lets you control your Beauty Device over Bluetooth, see your usage recor
 
 9.1 The App’s code, interface, firmware update files, images, text and other content, and the copyright and other intellectual property rights in them, belong to us or our licensors.
 
-9.2 MDR.Care and related marks are our trademarks. Please do not use them without our written permission first.
+9.2 MDr. Care and related marks are our trademarks. Please do not use them without our written permission first.
 
 9.3 The information you enter and the usage records created while you use the App belong to you. They are stored on your mobile device and Beauty Device, and we do not acquire any rights in them.
 
@@ -164,7 +164,7 @@ The App lets you control your Beauty Device over Bluetooth, see your usage recor
 
 ## 17. Contact Us
 
-17.1 If you have any questions about these Terms, or run into any difficulty using MDR.Care and the Beauty Device, please get in touch at any time. We are happy to help. Customer service email: sales@microdrmed.com
+17.1 If you have any questions about these Terms, or run into any difficulty using MDr. Care and the Beauty Device, please get in touch at any time. We are happy to help. Customer service email: sales@microdrmed.com
 
 17.2 MicroDoctor Biomedical Corporation　Address: [No. 20-1, Guangfu N. Rd., Hukou Township, Hsinchu County 303036 , Taiwan]　Telephone: [+886-3-597-2000]
 
