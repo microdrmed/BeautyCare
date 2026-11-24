@@ -14,7 +14,7 @@ The App lets you control your Beauty Device over Bluetooth, see your usage recor
 
 ## 1. About These Terms
 
-1.1 These Terms of Service (the “Terms”) are a contract between MicroDoctor Biomedical Corporation (“we”, “us” or the “Company”) and you. They cover your use of the MDR.Care app (the “App”). By downloading, installing or using the App, you confirm that you have read, understood and agreed to all of these Terms.
+1.1 These Terms of Service (the “Terms”) are a contract between MicroDoctor Biomedical Corporation (“we”, “us” or the “Company”) and you. They cover your use of the MDr. Care app (the “App”). By downloading, installing or using the App, you confirm that you have read, understood and agreed to all of these Terms.
 
 1.2 These Terms and our Privacy Policy together make up the whole contract between us. The App is free and is made for use with our beauty device (the “Beauty Device”). Your purchase of the Beauty Device, our responsibility for the product and its warranty are covered by your purchase contract with the seller and by applicable law. These Terms do not change them.
 
