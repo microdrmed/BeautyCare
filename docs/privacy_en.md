@@ -1,4 +1,4 @@
-# MDR.Care Privacy Policy
+# MDr. Care Privacy Policy
 
 Effective date: 2026/11/20
 
@@ -14,7 +14,7 @@ There is no account, no cloud sync and no push notification. The App goes online
 
 ## 1. What This Policy Covers
 
-1.1 MicroDoctor Biomedical Corporation (“we”, “us” or the “Company”) developed MDR.Care (the “App”) as the companion app for our beauty device (the “Beauty Device”). This Policy applies to all users worldwide, wherever you are.
+1.1 MicroDoctor Biomedical Corporation (“we”, “us” or the “Company”) developed MDr. Care (the “App”) as the companion app for our beauty device (the “Beauty Device”). This Policy applies to all users worldwide, wherever you are.
 
 1.2 You use the App to connect to the Beauty Device over Bluetooth and control it (for example, switching modes and adjusting intensity), to see its battery level and usage records, and to update its firmware. We do not collect, process or use your personal data through the App, and we have no server that could receive it. Section 5 explains when the App goes online.
 
